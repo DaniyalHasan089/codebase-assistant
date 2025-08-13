@@ -224,9 +224,9 @@ Modify the AI model in `codebase_manager.py`:
 
 ```python
 # Available models on OpenRouter
-"model": "deepseek/deepseek-chat",           # Fast and free
-"model": "anthropic/claude-3-sonnet",       # High quality
-"model": "openai/gpt-4-turbo",              # OpenAI's latest
+"model": "deepseek/deepseek-chat",           
+"model": "meta/llama 3 8B Instruct",       
+"model": "mistral/mistral 7B Instruct",              
 ```
 
 ## 🏗️ Architecture
