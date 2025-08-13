@@ -6,6 +6,34 @@ A powerful AI-powered tool that lets you **chat with your codebases** using natu
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![License](https://img.shields.io/badge/License-Open%20Source-green)
 
+## 📸 Project Showcase
+
+### 🖥️ Main Interface
+![Main Interface](screenshots/main-interface.png)
+*Clean, intuitive web interface built with Streamlit - chat with your code naturally*
+
+### 💬 AI Chat in Action
+![Chat Demo](screenshots/chat-demo.png)
+*Ask questions about your codebase and get intelligent, context-aware responses*
+
+### 📚 Codebase Management
+![Codebase Management](screenshots/manage-codebases.png)
+*Easily add, refresh, and manage multiple repositories from the sidebar*
+
+### 🔍 Smart Code Search
+![Code Search](screenshots/code-search.png)
+*Semantic search finds relevant code sections based on your natural language queries*
+
+### 📊 Processing & Analytics
+![Processing Status](screenshots/processing-status.png)
+*Real-time processing status with file counts, chunks, and health indicators*
+
+### 🎯 Query Results
+![Query Results](screenshots/query-results.png)
+*Detailed responses with code context and explanations from your AI assistant*
+
+---
+
 ## ✨ Features
 
 - 🔍 **Semantic Code Search**: Find relevant code using natural language queries
