@@ -1,0 +1,6 @@
+requests
+chromadb
+gitpython
+python-dotenv
+streamlit
+pandas
