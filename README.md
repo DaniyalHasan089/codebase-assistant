@@ -9,28 +9,24 @@ A powerful AI-powered tool that lets you **chat with your codebases** using natu
 ## 📸 Project Showcase
 
 ### 🖥️ Main Interface
-![Main Interface](screenshots/main-interface.png)
+![Main Interface](screenshots/main.png)
 *Clean, intuitive web interface built with Streamlit - chat with your code naturally*
 
 ### 💬 AI Chat in Action
-![Chat Demo](screenshots/chat-demo.png)
+![Chat Demo](screenshots/chat.png)
 *Ask questions about your codebase and get intelligent, context-aware responses*
 
 ### 📚 Codebase Management
-![Codebase Management](screenshots/manage-codebases.png)
+![Codebase Management](screenshots/manage.png)
 *Easily add, refresh, and manage multiple repositories from the sidebar*
 
-### 🔍 Smart Code Search
-![Code Search](screenshots/code-search.png)
-*Semantic search finds relevant code sections based on your natural language queries*
+### 🔍 Use Different Model
+![Code Search](screenshots/models.png)
+*Use different open source models*
 
-### 📊 Processing & Analytics
-![Processing Status](screenshots/processing-status.png)
-*Real-time processing status with file counts, chunks, and health indicators*
-
-### 🎯 Query Results
-![Query Results](screenshots/query-results.png)
-*Detailed responses with code context and explanations from your AI assistant*
+### 📊 Adding Codebase
+![Processing Status](screenshots/add.png)
+*Add Codebases With just a github link*
 
 ---
 
