@@ -4,3 +4,4 @@ gitpython
 python-dotenv
 streamlit
 pandas
+pysqlite3-binary

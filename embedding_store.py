@@ -2,8 +2,13 @@
 
 import os
 import requests
-import chromadb
 from config import DB_DIR, OPENROUTER_API_KEY
+
+# Import ChromaDB with Streamlit Cloud compatibility
+try:
+    from chromadb_compat import chromadb
+except ImportError:
+    import chromadb
 
 # Init Chroma client
 client = chromadb.PersistentClient(path=DB_DIR)

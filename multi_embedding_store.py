@@ -2,9 +2,14 @@
 
 import os
 import hashlib
-import chromadb
 from typing import List, Dict
 from config import DB_DIR
+
+# Import ChromaDB with Streamlit Cloud compatibility
+try:
+    from chromadb_compat import chromadb
+except ImportError:
+    import chromadb
 
 class MultiCodebaseEmbeddingStore:
     def __init__(self, base_db_dir: str = DB_DIR):
